@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jejubusGuide/static/css/main.5fbe9535.css",
+    "main.js": "/jejubusGuide/static/js/main.07b4de1a.js",
+    "static/media/pathSearch.png": "/jejubusGuide/static/media/pathSearch.8a99d3fc2f265895ab4a.png",
+    "static/media/schedule.png": "/jejubusGuide/static/media/schedule.913f2c0c4056f028fc65.png",
+    "static/media/location.png": "/jejubusGuide/static/media/location.ab8049301c9a13253598.png",
+    "static/media/busStop.png": "/jejubusGuide/static/media/busStop.63021b5bf91c1038d7a8.png",
+    "static/media/route.png": "/jejubusGuide/static/media/route.5f9bed963fbe563e4829.png",
+    "static/media/googleLogin.svg": "/jejubusGuide/static/media/googleLogin.138992c052ddcce3f72c92345dc34a71.svg",
+    "static/media/noBus.svg": "/jejubusGuide/static/media/noBus.619d2870f46a93a9357c2fa0a01d7dcf.svg",
+    "static/media/person.svg": "/jejubusGuide/static/media/person.48bc155ce8bd5f7554844dd384145375.svg",
+    "index.html": "/jejubusGuide/index.html",
+    "static/media/arrow.svg": "/jejubusGuide/static/media/arrow.5735743d4edb127b53f5.svg",
+    "main.5fbe9535.css.map": "/jejubusGuide/static/css/main.5fbe9535.css.map",
+    "main.07b4de1a.js.map": "/jejubusGuide/static/js/main.07b4de1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbe9535.css",
+    "static/js/main.07b4de1a.js"
+  ]
+}
